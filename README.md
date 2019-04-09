@@ -1,2 +1,2 @@
 # rana
-Rails Academia Nacional de Ajedrez
+*R*ails *A*cademia *N*acional de *A*jedrez
